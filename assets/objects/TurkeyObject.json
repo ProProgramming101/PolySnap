@@ -1,0 +1,15 @@
+{
+    "name":"assets/6_2gGwLWWHN",
+    "displayName":"Happy Turkey Day!",
+    "authorName":"Zan Isgett",
+    "description":"#thanksgiving #turkey #pilgrim #holiday",
+    "createTime":"2017-11-06T21:08:08.975118Z",
+    "updateTime":"2018-03-20T09:26:47.062381Z",
+    "formats":[{"root":{"relativePath":"model.obj","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/2fjlcvDtM61/model.obj","contentType":"text/plain"},"resources":[{"relativePath":"materials.mtl","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/2fjlcvDtM61/materials.mtl","contentType":"text/plain"}],"formatComplexity":{"triangleCount":"2145"},"formatType":"OBJ"},{"root":{"relativePath":"model-triangulated.obj","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/a9hzk3RXgZ1/model-triangulated.obj","contentType":"text/plain"},"resources":[{"relativePath":"materials.mtl","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/a9hzk3RXgZ1/materials.mtl","contentType":"text/plain"}],"formatComplexity":{"triangleCount":"3724"},"formatType":"OBJ"},{"root":{"relativePath":"model.fbx","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/5yj8Kskb-QE/model.fbx","contentType":"application/octet-stream"},"formatComplexity":{},"formatType":"FBX"},{"root":{"relativePath":"model.gltf","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/5tDSnSpY5Nw/model.gltf","contentType":"model/gltf+json"},"resources":[{"relativePath":"model.bin","url":"https://poly.googleapis.com/downloads/6_2gGwLWWHN/5tDSnSpY5Nw/model.bin","contentType":"application/octet-stream"}],"formatComplexity":{"triangleCount":"3724"},"formatType":"GLTF"}],
+    "thumbnail": {
+        "relativePath":"aWLD8imIWmk.png",
+        "url":"https://lh3.googleusercontent.com/WK4clNLrfVxwv2pljofKuuDKlpYqZkF6uHLZrjqmTFBMEFGm-lDYUzwBbltCMbyWmA",
+        "contentType":"image/png"
+    },
+    "license":"CREATIVE_COMMONS_BY","visibility":"PUBLIC","isCurated":true,"presentationParams":{"orientingRotation":{"w":1},"colorSpace":"LINEAR"}
+}
